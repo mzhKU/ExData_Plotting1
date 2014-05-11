@@ -1,4 +1,4 @@
-# Plot 1 script
+# Plotting scripts and figures
 
 Note:
 For size reasons, the data file is not included in the repository.
